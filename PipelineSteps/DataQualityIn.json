@@ -1,0 +1,8 @@
+{
+    "dataFileUrl": "",
+    "duplicateCheck": true,
+    "missingValuesCheck": [ true, false, true ],
+    "reviewerCheck": true,
+    "approverCheck": true,
+    "trainTestDistributionCheck": true
+}

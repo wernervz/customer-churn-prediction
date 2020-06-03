@@ -1,0 +1,7 @@
+{
+    "dataFileUrl": "",
+    "modelId": "",
+    "falsePositiveCheck": true,
+    "falseNegativesCheck": true,
+    "f1ScoreCheck": true
+}
